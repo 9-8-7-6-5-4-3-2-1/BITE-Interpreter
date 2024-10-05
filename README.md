@@ -1,4 +1,4 @@
-# BITE-Interpreter
+# The BITE Language
 https://esolangs.org/wiki/BITE
 
 # How to use
