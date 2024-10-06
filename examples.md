@@ -1,29 +1,29 @@
-# Quine
+## Quine
 ```
 Q
 ```
 
-# XKCD Random Number
+## XKCD Random Number
 ```
 4
 ```
 
-# Infinite Loop
+## Infinite Loop
 ```
 ~
 ```
 
-# H
+## H
 ```
 H
 ```
 
-# One Quarter
+## One Quarter
 ```
 ^
 ```
 
-# Degrees
+## Degrees
 ```
 X
 ```
